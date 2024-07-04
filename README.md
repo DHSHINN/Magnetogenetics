@@ -8,4 +8,4 @@ There are three types of python codes that process on-off-on stimulation data, s
 
 Note that the raw data from must be edited into a relevant csv file.
 
-For any questions/problems, please contact Donghun: dh_shinn@yonsei.ac.kr
+For any questions/problems, please contact Donghun: dhshinn@umich.edu
